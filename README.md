@@ -31,5 +31,5 @@ all data is compiled and ready, a presentation of our findings must be made.
 MILESTONE 3:
 -----------
 The final milestone brings us to GitHub. We are tasked to discuss our methods, our outputs, things that went well, things
-that need improvement, and how we can make these improvements. All data, code, set-up, and improvements are provided in
+that need improvement, and how we can make these improvements. All milestones, data, code, set-up, and improvements are provided in
 the repository. 
