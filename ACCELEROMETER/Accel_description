@@ -1,1 +1,14 @@
+                                                  ----------------------------------
+                                                   ACCELEROMETER TESTING DESCRIPTION:
+                                                  ----------------------------------
+  The leading thought of how to test the accelerometer sensor was to initially use a rover of sorts to test the acceleration of the sensor.
+However, as we began testing, we found that none of the team members owned a high enough quality rover to accomplish the task. So, we 
+improvised to a shake and go toy car. This car is purely mechanical and has a burst of acceleration for approximately 25 feet. 
 
+  Since the shake and go car is relatively an old toy, we were unable to acquire a data sheet to set the ground truth. So, we used kinematics
+to derive our own ground truth for acceleration and velocity. As stated before, since the car's motor runs for approximately 25ft, we can 
+time how long it takes the car to drive to 20ft. This enables that our acceleration in CONSTANT acceleration. 
+
+  We found that it takes the car an average time of 3.875s to reach 20ft. Taking the initial starting point to be 0ft and the final to be 20ft, 
+we foudn that the equation for acceleration to be V = 2.7875*(Time) [ft/s], or 2.7883 ft/s^2, which is equavalent to .850 m/s^2. This gave us 
+our ground truth that we could measure against. 
