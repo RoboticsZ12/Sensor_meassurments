@@ -1,1 +1,13 @@
-
+IMPROVEMENTS TO MAKE TO INITIAL FINDINGS:
+----------------------------------------------------------------------------------------------------
+                                     ULTRA SONIC RANGING MODULE 
+  a. Initially the thought was to use a book to output readings, then switch to a box to read the 
+     same distance. We thought by using the box, we could trap external sound waves from causing
+     interferences with the ultrasonic waveforms. Multiple objects was unnecessary. One FLAT,
+     large object would work sufficiently.
+  b. We should have recorded many more data points than only 5 differnet lengths. Gives better 
+     variability and better data records. 
+  c. We should have covered entire range of module. We only measured up to 1.5 meters. The said 
+     max range was 4 meters. We should have measured its max range to show its precision/accuracy
+     at max range. 
+----------------------------------------------------------------------------------------------------
