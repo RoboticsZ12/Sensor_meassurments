@@ -1,1 +1,6 @@
-
+IMPROVEMENTS TO MAKE TO INITIAL FINDINGS:
+------------------------------------------------------------------------------------------------
+                                         DHT-11 {Temeprature}
+  a. Measured initially from a the thermostat sensor, we should have identified what sensor the 
+     the thermostat sensor was running to ensure the sensor was a valid/trustworthy gorund truth.
+-------------------------------------------------------------------------------------------------
