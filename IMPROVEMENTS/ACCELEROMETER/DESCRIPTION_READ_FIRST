@@ -1,8 +1,8 @@
 IMPROVEMENTS TO MAKE TO INITIAL FINDINGS:
----------------------------------------------------------------------------------------------------
-                                 MP-6050 MODULE {Accelerometer}
-  a. Measured initally only in X direction. Should have turned sensor 90 degrees to also measure y
-     acceleration, then 90 degrees in vertical direction to acquire z acceleration. 
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                 MP-6050 MODULE {Accelerometer}
+  a. Measured initally only in X direction, as shown in image "X_AXIS". We should have turned sensor 90 degrees to also measure y
+     acceleration, then 90 degrees in vertical direction to acquire z acceleration. These images are shown in previous menu. 
   b. Also, to measure the angular acceleration, we could have used a drill as doen by @Lukas to
      generate a constant acceleration across each axis.
-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
