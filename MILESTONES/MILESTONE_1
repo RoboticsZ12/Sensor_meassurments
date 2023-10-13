@@ -1,1 +1,12 @@
-MILESTONE_1
+                                                            -------------
+                                                            MILESTONE_1:
+                                                            -------------
+
+  As previously described in the "Read.me", milestone 1 was generating the basics of what sensors we were planning to test, 
+specific characteristics we wish to measure, and devising a plan on how we are to test the sensor compared to a ground truth.
+
+  There is not much to describe for the first milestone, however, the crucial component of milestone 1 is to devise a proper 
+plan that will correlate the best with the chosen characteristics. 
+
+  When finishing the initial submission of milestone 1, we noticed we had a few holes in our logic. Attached under "milestone 1" 
+there is a renovated copy of the submitted milestone. 
