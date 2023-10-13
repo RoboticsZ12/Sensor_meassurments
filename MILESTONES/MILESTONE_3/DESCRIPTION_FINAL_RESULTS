@@ -1,0 +1,35 @@
+                                                    -----------------------------
+                                                    FINAL DESCRIPTION OF PROJECT:
+                                                    -----------------------------
+
+  In this project, we learned the mulitiple aspects of how to solve for multiple characteristics of sensors. We had many 
+successes in the project, but also many aspects that needed fixing, such as the accelerometer readings only being in the 
+x direction. These fixes can be found in the "IMPROVEMENTS" folder. 
+-------
+DHT-11:
+-------
+  Overall, the results were quite promising for all sensors. The one sensor that gave the most trouble was the DHT-11 
+temperature sensor. The DHT-11 tends to be quite challenging when trying to find a ground truth for the sensor. 
+Our group, in particular, used two seperate ground truths. The first being the the weather app on our phones and 
+the second being the thermostat of a house. 
+------
+PHONE:
+------
+  The phone's weather app proved to be a better ground truth since the location of the data that is being pulled
+comes from a reputable source. When doing the calculations/readings, we found that DHT-11 actually calculated pretty 
+close to the given temperature. Utilizing the data provided in "MILESTONE_2", we were able to calculate %error of the 
+sensor. 
+-----------
+THERMOSTAT:
+-----------
+  The thermostat on the other hand proved to be quite inaccurate compare to the DHT-11 readings. The thermostat we 
+utilized was a "Honeywell Home RTH6580WF". This specific thermostat utilizes a "RedLINK® Room Sensor" for its temperature
+depiction. According to the data sheet and multiple sources, the REDLINK room sensor is a reliable sensor that outputs 
+good data. The one downside from utilizing the REDLINK sensor vs the DHT-11 depends on the size of the house being measured. 
+If a larger house is being tested, obviously the upstairs readings will read higher than the basement readings for example, 
+hear rises. For this fact, we cannot say with certainty that the room being measured by the DHT-11 is accurate at all to what 
+the REDLINK sensor is outputting. 
+
+--------------
+ACCELEROMETER:
+--------------
