@@ -11,4 +11,22 @@ time how long it takes the car to drive to 20ft. This enables that our accelerat
 
   We found that it takes the car an average time of 3.875s to reach 20ft. Taking the initial starting point to be 0ft and the final to be 20ft, 
 we foudn that the equation for acceleration to be V = 2.7875*(Time) [ft/s], or 2.7883 ft/s^2, which is equavalent to .850 m/s^2. This gave us 
-our ground truth that we could measure against. 
+our ground truth that we could measure against. The calculation can be seen below. 
+
+KINEMATIC_EQUATIONS:
+V = V0 + a*t
+R = R0 + V0*t + ½*a*t^2
+KNOWNS:
+R = 20 ft
+t = 3.875 s
+R0 = 0 ft
+
+R = R0 + V0*t + ½*a*t^2
+20ft = 0ft + 0ft/s*(3.875s) + ½*a*(3.875s)^2
+a = 2.7875 ft/s^2
+a = .850 m/s^2
+General Equation for Finding Velocity at Specific Point in Time:
+V = V0 + a*t
+V = 2.7875*(Time) [ft/s]
+
+
