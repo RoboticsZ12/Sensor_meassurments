@@ -1,5 +1,9 @@
----------------------
-  DHT-11 DESCRIPTION:
----------------------
+                                                ---------------------
+                                                  DHT-11 DESCRIPTION:
+                                                ---------------------
 
-  Init
+  We had two portions/ground truths for this sensor. The first was the weather app on our phones, and the second 
+being an indoor thermostat. According to the feedback after presenting, the phone option was a good ground truth. 
+However, the ground truth for the thermostat was not. We needed to document what sensor was used in the thermostat
+for our ground truth. This information can be found in the "IMPROVEMENTS->DHT-11" file. 
+  The data acquired from our initial thoughts and readings can be found in the "DHT-11" folder. 
