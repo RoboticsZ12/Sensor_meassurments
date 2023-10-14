@@ -14,7 +14,7 @@ IMPROVEMENTS TO MAKE TO INITIAL FINDINGS:
 
 
 -------------------------------------------------------------------------------------------------------
-                                        SENSOR PROBLEMS ON RE_SENSING
+                                     SENSOR PROBLEMS ON RE_SENSING
   Unfortunately, when wiring the ultrasonic sensor a second time, my sensor was not working properly. 
 The readings continued to read either 0cm of 1285cm without changing the setup. So, we had to do a bit 
 of theoretical knowledge. 
