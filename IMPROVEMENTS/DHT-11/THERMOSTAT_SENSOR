@@ -1,4 +1,16 @@
------------
-THERMOSTAT:
------------
+                                                          -----------
+                                                          THERMOSTAT:
+                                                          -----------
+  Unfortunately, we were unable to test the sensor inside the thermostat directly. However, we were able to compare its values 
+to some online resources. According to online resources, according to the floor that the thermostat is located, depends on the 
+accuracy of the sensor. The sensor the Honeywell thermostat utilizes is the "RedLINK® Room Sensor". 
+  For example, the thermostat we tested is on the main floor of the house. However, there is also an upstairs and basement.
+This plays a major role in the readings. According to online resources, the main floor the sensor is located reads quite accurate 
+to the actual temperature of THAT FLOOR. However, if there is a basement or upstairs, the thermostat reads quite inaccurately for 
+those two variables. Since heat rises, the upstairs should read hotter and the basement should read colder that the thermostat reading. 
+  This leads our ground truth to be a bit unworthy of being called a "GROUND TRUTH". We need a more reliable source if we were to do 
+temperature readings of the inside of a house. 
+
+
+
 
