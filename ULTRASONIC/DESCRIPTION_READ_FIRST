@@ -1,1 +1,12 @@
+                                            ------------------------------
+                                            ULTRASONIC MODULE DESCRIPTION:
+                                            ------------------------------
+  Ultrasonic ranging module, we came about our initial testing design in a bit of a round about way. We initially thought 
+that perhaps since the ultrasonic snesor uses ultrasonic waves to detect motion, we were thinking that since sound is 
+transmitted though waves. This made us believe that perhpas the sound waves effect the readings of the ultrasonic waves.
 
+  Using the boxes we were thinking that perhaps the box could capture the ultrasonic waves and block the sound waves. 
+To an extent, we saw the results we intended. However, when presenting, we were told that we actually only needed a large
+flat object to measure the distance. 
+  Also, a major mistake on our side was that we stopped measuring our data at only 1.5m vs the max range of 4m. The data 
+provided in the "ULTRASONIC" module shows the data from 0-1.5m. The correct data output is show in the "IMPROVEMENTS" tab.
