@@ -14,7 +14,7 @@ we foudn that the equation for acceleration to be V = 2.7875*(Time) [ft/s], or 2
 our ground truth that we could measure against. The calculation can be seen below. 
 
 KINEMATIC_EQUATIONS:
-V = V0 + a*t
+V = V0 + a*t 
 R = R0 + V0*t + ½*a*t^2
 KNOWNS:
 R = 20 ft
