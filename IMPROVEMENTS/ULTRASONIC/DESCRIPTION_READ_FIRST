@@ -11,3 +11,16 @@ IMPROVEMENTS TO MAKE TO INITIAL FINDINGS:
      max range was 4 meters. We should have measured its max range to show its precision/accuracy
      at max range. 
 ----------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------
+                                        SENSOR PROBLEMS ON RE_SENSING
+  Unfortunately, when wiring the ultrasonic sensor a second time, my sensor was not working properly. 
+The readings continued to read either 0cm of 1285cm without changing the setup. So, we had to do a bit 
+of theoretical knowledge. 
+  Seeing how our first attempt went, we anticipate that as the distance increases, the ultrasonic waves from 
+the sensor dissipate. Seeing that they were already dissipating at 2m, we anticipate that at 4m we would see
+a the precision and accuracy plummit. We guess that at max range of 4m that we would achieve a good reading 
+every once in a while, but in all the readings %error would be to great to count them as valid. 
+  Our interpretation would be any distance greater than 2.5m would lead to a %error that is unacceptable.
+----------------------------------------------------------------------------------------------------------
