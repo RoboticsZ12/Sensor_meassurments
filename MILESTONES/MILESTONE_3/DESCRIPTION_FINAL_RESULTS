@@ -33,3 +33,23 @@ the REDLINK sensor is outputting.
 --------------
 ACCELEROMETER:
 --------------
+  The main method of testing was using the toy shake and go car described in the "accelerometer" file. However, as discussed in
+the "IMPROVEMENTS" file, we only tested the x direction of the sensor. So, to fix this, we flipped the sensor 90 degrees to measure
+both the y and z acceleration as well, once again can be seen in the "IMROVEMENTS->ACCELEROMETER". This enabled us to be able to 
+mesure all axis of the accelerometer and not just the one direction of the x-axis. 
+  The only component we ran out of time to test for was the angular acceleration. The idea was to use a similar contraption to what
+was used by Luke from class. Basically attached the sensor to a drill to enable anm angular acceleration. Since the drill can be 
+moved on different axis, we could have measured the x, y, and z angular accelerations with the drill. 
+  With the exception of a few misreadings, the accelerometer read decent for the cost of the sensor. 
+
+------------
+ULTRASONIC :
+------------
+  The final conclusion for the ultrasonic sensor resulted quite positively. Out of all three of the sensors tested, this sensor
+appeared to be the most accurate and precise of the three. After changing our initial box plan to the testing seen in the 
+"IMPROVEMENTS->ULTRASONIC" file, we actually noticed the precision/accuracy increased significantly. We also found that the max 
+range of 4m is a bit on the exagerative side. With that distance the ultrasonic waves are not as tightly compacted and dissipate 
+more and more as the distance increases. 
+  Every so often a reading, at the max range, would output correctly. However, for the sensor to be utilized efficiently, the 
+testing should be kept to approximately half that length, approximatley 2~2.5m. This new data can be seen in the 
+"IMPROVEMENTS->ULTRASONIC" file. 
