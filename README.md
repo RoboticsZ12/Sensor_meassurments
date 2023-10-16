@@ -7,4 +7,4 @@
   There are three main "milestones" utilized in this project. These three milestones can be found under the "MILESTONES" file. These files will explain exactly the steps taken to acquire our initial raw data, to our more prestine data. 
     You will also find three other files called "ACCELEROMETER", "ULTRASONIC", and "DHT-11". These files give our initial findings and describe the process taken to find ground truth and the characteristics of our sensors. 
     The final folder seen is called "IMPROVEMENTS". This file consists of all three sensors data improvements from initial findings. There are some data measurments that could not be re-recorded due to some sensor malfunctions, however the process of what we would have done along with a theoretical outline of the output can be found with each document.
-    
+    BE SURE TO READ ALL "READ_FIRST" WITHIN EACH FILE.
