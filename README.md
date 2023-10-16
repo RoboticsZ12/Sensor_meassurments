@@ -1,6 +1,6 @@
-                                                               -----------
-                                                               :PROJECT_1: 
-                                                               -----------
+-----------
+:PROJECT_1: 
+-----------
 
   The first project for MRE_320, sensors and actuators, deals with learning specific characterstics of specific sensors given a ground truth. Using basic C++/C coding experience we were to able to utilize an arduino to test our sensors. We later utilized this teseted data to determine whether the ground truth we chose was precise/accurate enough to measure against. If the ground truth was strong enough, we could then compare our theoretical data, calculated from the sensors, to this ground truth. This enables later users to determine whether the sensor chosen best fits their own needs. 
   
